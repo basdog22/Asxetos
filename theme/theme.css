@@ -1,0 +1,9 @@
+.asxetos-wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.well,.lead,.text-lowercase,.text-uppercase,.text-capitalize,.text-muted,.text-primary,.text-success,
+.text-info,.text-warning,.text-danger,.bg-primary,.bg-success,.bg-info,.bg-warning,.bg-danger,.label.label-default,
+.label.label-success,.label.label-primary,.label.label-info,.label.label-warning,.label.label-danger
+{}

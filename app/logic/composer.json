@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pecee/pixie": "^3.2"
+    }
+}

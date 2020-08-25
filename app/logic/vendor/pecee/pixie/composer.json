@@ -1,0 +1,49 @@
+{
+  "name": "pecee/pixie",
+  "description": "Lightweight, fast query-builder for PHP based on Laravel Eloquent but with less overhead.",
+  "homepage": "https://github.com/skipperbent/pixie",
+  "keywords": [
+    "pecee",
+    "querybuilder",
+    "eloquent",
+    "pixie",
+    "query builder",
+    "sql",
+    "database",
+    "mysql",
+    "postgresql",
+    "sqlite"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Simon Sessingø",
+      "email": "simon.sessingoe@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Muhammad Usman",
+      "email": "hi@usman.it",
+      "role": "Developer"
+    },
+    {
+      "name": "Pavel Puchkin",
+      "email": "i@neoascetic.me",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "usmanhalalit/viocon": "1.0.*@dev"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8",
+    "mockery/mockery": "0.9.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pecee\\Pixie\\": "src/Pecee/Pixie/"
+    }
+  }
+}
